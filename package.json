@@ -1,0 +1,22 @@
+{
+  "name": "ragdoll",
+  "version": "0.1.0",
+  "description": "A 2D JavaScript Game Engine",
+  "main": "index.js",
+  "repository": "git://github.com/kaelzhang/ragdoll.git",
+  "keywords": [
+    "game",
+    "engine",
+    "2D",
+    "collision"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "kael",
+    "email": "i@kael.me"
+  },
+  "bugs": {
+    "url": "http://github.com/kaelzhang/ragdoll/issues"
+  },
+  "homepage": "http://github.com/kaelzhang/ragdoll"
+}
